@@ -1,5 +1,8 @@
 # TT_Todos V2
 
+## APK file
+-root/app-release.apk
+
 
 ## Install
 
